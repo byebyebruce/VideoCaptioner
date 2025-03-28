@@ -1,3 +1,6 @@
 ﻿requests
 openai
 retry
+python-dotenv
+flask
+sqlalchemy

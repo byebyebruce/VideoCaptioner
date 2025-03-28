@@ -1,0 +1,362 @@
+{
+    "1": {
+        "start_time": 0,
+        "end_time": 4432,
+        "original_subtitle": "Hey friends, what's up? If you aren't aware recently",
+        "translated_subtitle": "嗨朋友们，最近怎么样？你们知道吗"
+    },
+    "2": {
+        "start_time": 4432,
+        "end_time": 6951,
+        "original_subtitle": "the Svelt hack 2024 rules edition has ended",
+        "translated_subtitle": "Svelt hack 2024规则版已经结束"
+    },
+    "3": {
+        "start_time": 6960,
+        "end_time": 9441,
+        "original_subtitle": "And basically if you're one of the lucky participants",
+        "translated_subtitle": "基本上，如果你是其中一个幸运的参与者"
+    },
+    "4": {
+        "start_time": 9441,
+        "end_time": 13000,
+        "original_subtitle": "in the Svelt hackathon, maybe you enjoy some of these big money prizes",
+        "translated_subtitle": "在Svelt黑客马拉松中，你可能会赢得一些丰厚的奖金"
+    },
+    "5": {
+        "start_time": 13000,
+        "end_time": 16470,
+        "original_subtitle": "so we can see you could've earned up to 3000 for the first place",
+        "translated_subtitle": "所以我们可以看到，你最高可以获得3000美元的奖金"
+    },
+    "6": {
+        "start_time": 16470,
+        "end_time": 18920,
+        "original_subtitle": "which is really awesome just for writing some Svelte",
+        "translated_subtitle": "这真的很棒，只是写一些Svelte代码"
+    },
+    "7": {
+        "start_time": 18920,
+        "end_time": 22199,
+        "original_subtitle": "And we can even look at some winners from previous years",
+        "translated_subtitle": "我们甚至可以看看往年的一些获奖者"
+    },
+    "8": {
+        "start_time": 22199,
+        "end_time": 24074,
+        "original_subtitle": "so 2023 halftime flies, right?",
+        "translated_subtitle": "2023年过得真快，对吧？"
+    },
+    "9": {
+        "start_time": 24080,
+        "end_time": 26097,
+        "original_subtitle": "Someone actually made Wolfenstein in the browser",
+        "translated_subtitle": "有人竟然在浏览器中制作了Wolfenstein"
+    },
+    "10": {
+        "start_time": 26097,
+        "end_time": 27778,
+        "original_subtitle": "so they basically made Wolfen Svelte",
+        "translated_subtitle": "所以他们基本上做了Wolfen Svelte"
+    },
+    "11": {
+        "start_time": 27778,
+        "end_time": 32814,
+        "original_subtitle": "Which is a fully playable port of Wolfenstein 3D rendered by Svelte",
+        "translated_subtitle": "这是一个用Svelte渲染的完全可玩的Wolfenstein 3D游戏"
+    },
+    "12": {
+        "start_time": 32820,
+        "end_time": 34187,
+        "original_subtitle": "So no WebGL or Canvas",
+        "translated_subtitle": "因此不使用WebGL或Canvas"
+    },
+    "13": {
+        "start_time": 34187,
+        "end_time": 36531,
+        "original_subtitle": "It just uses CSS and transforms things around",
+        "translated_subtitle": "它仅使用CSS并进行一些转换"
+    },
+    "14": {
+        "start_time": 36531,
+        "end_time": 39934,
+        "original_subtitle": "And it just slaps things in the browser, which is really incredible",
+        "translated_subtitle": "它只是将这些内容放到浏览器中，真的非常不可思议"
+    },
+    "15": {
+        "start_time": 39940,
+        "end_time": 42004,
+        "original_subtitle": "Then you also had some awesome and amazing projects",
+        "translated_subtitle": "然后你还有一些非常棒的项目"
+    },
+    "16": {
+        "start_time": 42004,
+        "end_time": 45120,
+        "original_subtitle": "Which a lot of people love, like Superforms for example",
+        "translated_subtitle": "很多人都很喜欢，比如Superforms"
+    },
+    "17": {
+        "start_time": 45120,
+        "end_time": 48290,
+        "original_subtitle": "And then you had some other amazing projects like SvelteLab",
+        "translated_subtitle": "你还有一些其他非常棒的项目，比如SvelteLab"
+    },
+    "18": {
+        "start_time": 48290,
+        "end_time": 51041,
+        "original_subtitle": "Which is basically a repl for SvelteKit projects",
+        "translated_subtitle": "它基本上是一个用于SvelteKit项目的repl"
+    },
+    "19": {
+        "start_time": 51041,
+        "end_time": 53562,
+        "original_subtitle": "So you can easily spin up Svelte or SvelteKit projects",
+        "translated_subtitle": "所以你可以轻松启动Svelte或SvelteKit项目"
+    },
+    "20": {
+        "start_time": 53562,
+        "end_time": 56200,
+        "original_subtitle": "And try things out without much fuss",
+        "translated_subtitle": "并且可以轻松尝试一些东西"
+    },
+    "21": {
+        "start_time": 56200,
+        "end_time": 59705,
+        "original_subtitle": "But today we're going to be looking at the previous year of our Lord 2024",
+        "translated_subtitle": "今天我们要回顾的是2024年"
+    },
+    "22": {
+        "start_time": 59705,
+        "end_time": 62690,
+        "original_subtitle": "It's already 2025 so we're going to look at some cool apps",
+        "translated_subtitle": "现在是2025年了，我们来看看一些很酷的应用"
+    },
+    "23": {
+        "start_time": 62690,
+        "end_time": 65165,
+        "original_subtitle": "From a cross platform app launcher like Krakas",
+        "translated_subtitle": "从一个像Krakas这样的跨平台应用启动器"
+    },
+    "24": {
+        "start_time": 65165,
+        "end_time": 67075,
+        "original_subtitle": "To some fun games made with Svelte",
+        "translated_subtitle": "到一些用Svelte制作的有趣游戏"
+    },
+    "25": {
+        "start_time": 67080,
+        "end_time": 71198,
+        "original_subtitle": "Alright so the first category is going to be WizBangery. And what is WizBangery?",
+        "translated_subtitle": "好吧，第一个类别是WizBangery。那么什么是WizBangery呢？"
+    },
+    "26": {
+        "start_time": 71200,
+        "end_time": 74466,
+        "original_subtitle": "Well basically the wizards of WizBangery are masters of innovation",
+        "translated_subtitle": "简单来说，WizBangery的巫师是创新的大师"
+    },
+    "27": {
+        "start_time": 74466,
+        "end_time": 77418,
+        "original_subtitle": "Showcasing novel and impressive uses of Svelte",
+        "translated_subtitle": "展示Svelte的新颖和令人印象深刻的用法"
+    },
+    "28": {
+        "start_time": 77420,
+        "end_time": 80080,
+        "original_subtitle": "Basically you make something cool and then you get paid",
+        "translated_subtitle": "简单来说，你做出一些很酷的东西，然后就能赚钱"
+    },
+    "29": {
+        "start_time": 80080,
+        "end_time": 83380,
+        "original_subtitle": "And the first place is going to be KunKun. And what is KunKun?",
+        "translated_subtitle": "第一名是KunKun。什么是KunKun呢？"
+    },
+    "30": {
+        "start_time": 83380,
+        "end_time": 87477,
+        "original_subtitle": "KunKun is an open source extensible cross platform app launcher",
+        "translated_subtitle": "KunKun是一个开源的、可扩展的跨平台应用启动器"
+    },
+    "31": {
+        "start_time": 87480,
+        "end_time": 90557,
+        "original_subtitle": "Basically it's like Krakas but for every other platform, right",
+        "translated_subtitle": "基本上，这个就像Krakas，但适用于所有平台，对吧"
+    },
+    "32": {
+        "start_time": 90560,
+        "end_time": 93680,
+        "original_subtitle": "So it's cross-platform extensible with a focus on privacy",
+        "translated_subtitle": "所以它是一个注重隐私的跨平台可扩展工具"
+    },
+    "33": {
+        "start_time": 93680,
+        "end_time": 96035,
+        "original_subtitle": "So let's actually look at how it looks",
+        "translated_subtitle": "那么我们来实际看看它的界面吧"
+    },
+    "34": {
+        "start_time": 96040,
+        "end_time": 98743,
+        "original_subtitle": "So you can launch KunKun and of course you can search for applications",
+        "translated_subtitle": "你可以启动KunKun，当然也可以搜索应用程序"
+    },
+    "35": {
+        "start_time": 98743,
+        "end_time": 101240,
+        "original_subtitle": "Maybe there's even an extension for searching for files",
+        "translated_subtitle": "或许还有一个用于搜索文件的扩展工具"
+    },
+    "36": {
+        "start_time": 101240,
+        "end_time": 104448,
+        "original_subtitle": "And you have these built-in commands which are really useful",
+        "translated_subtitle": "你还可以使用这些非常实用的内置命令"
+    },
+    "37": {
+        "start_time": 104448,
+        "end_time": 107392,
+        "original_subtitle": "And you have system-wide commands like cleaning the trash, etc.",
+        "translated_subtitle": "还有一些系统级命令，比如清理垃圾等"
+    },
+    "38": {
+        "start_time": 107400,
+        "end_time": 109193,
+        "original_subtitle": "And you can of course go to the store",
+        "translated_subtitle": "当然你还可以进入应用商店"
+    },
+    "39": {
+        "start_time": 109193,
+        "end_time": 114560,
+        "original_subtitle": "You can install any of these extensions or you can create your own extension. How cool is this",
+        "translated_subtitle": "你可以安装任何这些扩展工具，或者创建自己的扩展工具。是不是很酷"
+    },
+    "40": {
+        "start_time": 114560,
+        "end_time": 118895,
+        "original_subtitle": "And there's a lot of cool tech behind KunKun",
+        "translated_subtitle": "此外，KunKun背后还有很多酷炫的技术"
+    },
+    "41": {
+        "start_time": 118900,
+        "end_time": 120098,
+        "original_subtitle": "So basically it uses Tori",
+        "translated_subtitle": "所以基本上它使用了Tori"
+    },
+    "42": {
+        "start_time": 120100,
+        "end_time": 122557,
+        "original_subtitle": "If you're familiar with Electron, Tori is like Electron",
+        "translated_subtitle": "如果你熟悉Electron，Tori和Electron类似"
+    },
+    "43": {
+        "start_time": 122560,
+        "end_time": 125296,
+        "original_subtitle": "By the way, writing pure JavaScript is basically Rust first",
+        "translated_subtitle": "顺便说一下，写纯JavaScript基本上是先写Rust代码"
+    },
+    "44": {
+        "start_time": 125296,
+        "end_time": 129218,
+        "original_subtitle": "But then you can use any front-end framework JavaScript that you want",
+        "translated_subtitle": "但之后你可以使用任何你想要的前端框架JavaScript"
+    },
+    "45": {
+        "start_time": 129220,
+        "end_time": 130840,
+        "original_subtitle": "You can use Svelte, React, etc.",
+        "translated_subtitle": "你可以使用Svelte、React等"
+    },
+    "46": {
+        "start_time": 130840,
+        "end_time": 133424,
+        "original_subtitle": "And that's how you can easily build cross-platform applications",
+        "translated_subtitle": "这就是你可以轻松构建跨平台应用程序的方法"
+    },
+    "47": {
+        "start_time": 133424,
+        "end_time": 135640,
+        "original_subtitle": "And in the future, even mobile apps I think",
+        "translated_subtitle": "我认为将来甚至可以是移动应用程序"
+    },
+    "48": {
+        "start_time": 135640,
+        "end_time": 138023,
+        "original_subtitle": "And the major difference between Tori and Electron",
+        "translated_subtitle": "Tori和Electron之间的主要区别"
+    },
+    "49": {
+        "start_time": 138023,
+        "end_time": 141055,
+        "original_subtitle": "is that Electron ships the entire Chrome browser or whatever",
+        "translated_subtitle": "是Electron携带了整个Chrome浏览器或其他"
+    },
+    "50": {
+        "start_time": 141055,
+        "end_time": 145379,
+        "original_subtitle": "but Tori, on the other hand, uses the built-in web views in your operating system",
+        "translated_subtitle": "但Tori，另一方面，使用的是操作系统内置的web视图"
+    },
+    "51": {
+        "start_time": 145380,
+        "end_time": 148255,
+        "original_subtitle": "So your operating system Windows, Mac OS, Linux, etc.",
+        "translated_subtitle": "所以你的操作系统可能是Windows、Mac OS、Linux等等。"
+    },
+    "52": {
+        "start_time": 148255,
+        "end_time": 151104,
+        "original_subtitle": "have a built-in browser that comes with it, right?",
+        "translated_subtitle": "都自带一个浏览器，对吧？"
+    },
+    "53": {
+        "start_time": 151104,
+        "end_time": 152280,
+        "original_subtitle": "So it uses that instead.",
+        "translated_subtitle": "所以它使用的是那个自带的浏览器。"
+    },
+    "54": {
+        "start_time": 152280,
+        "end_time": 153998,
+        "original_subtitle": "That's basically how I understand it.",
+        "translated_subtitle": "基本上，我是这么理解的。"
+    },
+    "55": {
+        "start_time": 154000,
+        "end_time": 158353,
+        "original_subtitle": "But because Tori is so new, it doesn't really have that entire ecosystem that Electron does.",
+        "translated_subtitle": "不过，由于Tori还很新，它没有Electron那样完整的生态系统。"
+    },
+    "56": {
+        "start_time": 158360,
+        "end_time": 161918,
+        "original_subtitle": "And keep in mind, Tori isn't this Electron killer that people pretend it is.",
+        "translated_subtitle": "请记住，Tori并不是大家说的那个Electron杀手。"
+    },
+    "57": {
+        "start_time": 161918,
+        "end_time": 167520,
+        "original_subtitle": "Because you're going to have to write Rust, etc., which is, of course, the blazing fast language.",
+        "translated_subtitle": "因为你需要用Rust等语言来编写，这当然是一种极快的语言。"
+    },
+    "58": {
+        "start_time": 167520,
+        "end_time": 170039,
+        "original_subtitle": "So if you're into that, then you can use Tori.",
+        "translated_subtitle": "所以如果你对这个有兴趣，可以用Tori。"
+    },
+    "59": {
+        "start_time": 170040,
+        "end_time": 174277,
+        "original_subtitle": "And of course, it uses Svelte for the UI and Tailwind CSS for the styling.",
+        "translated_subtitle": "当然，它用Svelte来做UI，用Tailwind CSS来做样式。"
+    },
+    "60": {
+        "start_time": 174277,
+        "end_time": 177116,
+        "original_subtitle": "But in particular, it uses Shad C and Svelte.",
+        "translated_subtitle": "尤其是，它用Shad C和Svelte。"
+    }
+}

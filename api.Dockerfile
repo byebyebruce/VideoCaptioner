@@ -24,10 +24,10 @@ RUN pip3 install --no-cache-dir -r requirements_api.txt -i https://pypi.tuna.tsi
 COPY . .
 
 # 设置环境变量
-ARG OPENAI_BASE_URL
-ARG OPENAI_API_KEY
-ENV OPENAI_BASE_URL=${OPENAI_BASE_URL}
-ENV OPENAI_API_KEY=${OPENAI_API_KEY}
+#ARG OPENAI_BASE_URL
+#ARG OPENAI_API_KEY
+#ENV OPENAI_BASE_URL=${OPENAI_BASE_URL}
+#ENV OPENAI_API_KEY=${OPENAI_API_KEY}
 
 # 创建临时目录并设置权限
 #RUN mkdir -p temp && chmod 777 temp
