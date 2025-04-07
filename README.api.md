@@ -22,7 +22,7 @@ docker build -t srt-api -f api.Dockerfile .
 ```
 ### 运行容器
 ```sh
-docker run -d -v $(pwd)/.env:/app/.env -p 5000:5000 srt-api
+docker run --name srt-api -itd --restart unless-stopped -v $(pwd)/.env:/app/.env -p 8502:8502 srt-api
 ```
 
 ## 接口示例

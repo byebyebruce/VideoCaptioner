@@ -33,7 +33,7 @@ COPY . .
 #RUN mkdir -p temp && chmod 777 temp
 
 # 暴露端口
-EXPOSE 8501
+EXPOSE 8502
 
 # 健康检查
 #HEALTHCHECK CMD curl --fail http://localhost:8501/_stcore/health
